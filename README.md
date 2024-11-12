@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
 
-[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandhubabu)
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RED-EYE)
 <hr />
 
 ## 🏆 GitHub Trophies
