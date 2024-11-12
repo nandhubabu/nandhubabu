@@ -41,7 +41,7 @@ Here are some ideas to get you started:
    ## Language Stack
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,bootstrap,,js,mysql,npm" />
+       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,bootstrap,js,mysql,npm" />
      </a>
    </p>
    
