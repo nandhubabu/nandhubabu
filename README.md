@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, my name is Nandhu Babu</h1>
-<h2 align="center">I am an aspiring AI & web developer</h2>
+<h2 align="center">I am an aspiring embedded systems & web developer</h2>
 
 
 - 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about embedded systems and Web Development.
