@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, my name is Nandhu Babu</h1>
-<h2 align="center">I am an aspiring game & web developer</h2>
+<h2 align="center">I am an aspiring AI & web developer</h2>
 
 
-- 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about Game Development and Web Development.
-- 🔭 I’m currently working on honing my skills in game development and web development  
-- 🌱 I’m currently learning game and website development 
-- 🤔 I’m looking for help with JS/React/Vue/C++
-- 💞️ Open to collaborating on interesting projects related to game development & web development. If you have any ideas or opportunities, feel free to reach out!
+- 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about embedded systems and Web Development.
+- 🔭 I’m currently working on honing my skills in embedded systems and web development  
+- 🌱 I’m currently learning embedded systems and website development 
+- 🤔 I’m looking for help with React/Computer Vision/Django/raspberry pi
+- 💞️ Open to collaborating on interesting projects related to embedded systems & web development. If you have any ideas or opportunities, feel free to reach out!
 - 📫 How to reach me: nandhubabuvizh@gmail.com 
 - 😄 Pronouns: He/Him
 
@@ -68,7 +68,3 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=0)](#Visitors)
 
-<!---
-NeilSenEasow/NeilSenEasow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
