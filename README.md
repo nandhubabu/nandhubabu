@@ -57,28 +57,28 @@ Here are some ideas to get you started:
              
    
   ## 🧰 &nbsp;Github stats
-    <div align="center">
+   <div align="center">
     
-   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
     </div>
 
 ## 🔥 GitHub Streak
-    <div align="center">
+   <div align="center">
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=RajalakshmiShankar&theme=radical&hide_border=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabur&theme=radical&hide_border=false)<br/>
     </div>
 
 ##  📫 Top Languages Used
 
+   <div align="center">
+    
+   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+   </div>
     <div align="center">
     
-   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+ ## Visitors Count(since 22 Aug 2024)
 
-    </div>
-    <div align="center">
-    
-    ## Visitors Count(since 22 Aug 2024)
+   [![](https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=0)](#Visitors)
 
-   [![](https://visitcount.itsvg.in/api?id=RajalakshmiShankar&icon=0&color=0)](#Visitors)
-
-      </div>
+   </div>
