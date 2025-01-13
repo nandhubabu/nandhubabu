@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, my name is Nandhu Babu</h1>
 <h2 align="center">I am an aspiring embedded systems & web developer</h2>
 
+
 - 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about embedded systems and Web Development.
 - 🔭 I’m currently working on honing my skills in embedded systems and web development  
 - 🌱 I’m currently learning embedded systems and website development 
@@ -29,44 +30,57 @@ Here are some ideas to get you started:
 
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
 
-[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandhubabu)
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RED-EYE)
 <hr />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-
-## Language Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,bootstrap,js,mysql" />
-  </a>
-</p>
-
-## Software Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,vscode,arduino,windows,figma" />
-  </a>
-</p>
-
-## 🧰 &nbsp;GitHub Stats
-<div align="center">
-  ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</div>
+<div align = "center" >
+   
+   ## Language Stack
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,bootstrap,js,mysql" />
+     </a>
+   </p>
+   
+   ## Software stack
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,vscode,arduino,windows,figma" />
+     </a>
+   </p>
+   
+             
+             
+             
+   
+  ## 🧰 &nbsp;Github stats
+   <div align="center">
+    
+   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    </div>
 
 ## 🔥 GitHub Streak
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)
+
 </div>
 
-## 📫 Top Languages Used
-<div align="center">
-  ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-</div>
 
-## Visitors Count (since 22 Aug 2024)
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=0)](#Visitors)
-</div>
+##  📫 Top Languages Used
+
+   <div align="center">
+    
+   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+   </div>
+    <div align="center">
+    
+ ## Visitors Count(since 22 Aug 2024)
+
+   [![](https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=0)](#Visitors)
+
+   </div>
