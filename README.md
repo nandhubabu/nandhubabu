@@ -56,15 +56,29 @@ Here are some ideas to get you started:
              
              
    
-   ## 🧰 &nbsp;Github stats
-   ![](![image](https://github.com/user-attachments/assets/3e36d401-df1d-4603-a90f-a9bff69f6861)
-)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)<br/>
-   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
-   
-<div />
+  ## 🧰 &nbsp;Github stats
+    <div align="center">
+    
+    ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    </div>
 
-### Visitors (since july 6th 2024)
+## 🔥 GitHub Streak
+    <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=0)](#Visitors)
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=RajalakshmiShankar&theme=radical&hide_border=false)<br/>
+    </div>
 
+##  📫 Top Languages Used
+
+    <div align="center">
+    
+    ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+    </div>
+    <div align="center">
+    
+    ## Visitors Count(since 22 Aug 2024)
+
+    [![](https://visitcount.itsvg.in/api?id=RajalakshmiShankar&icon=0&color=0)](#Visitors)
+
+      </div>
