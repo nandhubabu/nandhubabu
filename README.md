@@ -63,10 +63,10 @@ Here are some ideas to get you started:
     </div>
 
 ## 🔥 GitHub Streak
-   <div align="center">
+<div align="center">
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)<br/>
- </div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)<br/>
+</div>
 
 ##  📫 Top Languages Used
 
