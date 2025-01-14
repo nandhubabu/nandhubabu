@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 
 
     ## 🧰 &nbsp;Github stats
-   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=lord-rudra0&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=lord-rudra0&theme=radical&hide_border=false)<br/>
-   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
+   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=nandhubabu0&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)<br/>
+   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
 
 </div>
    
