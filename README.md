@@ -71,13 +71,10 @@ Here are some ideas to get you started:
 
 
 ##  📫 Top Languages Used
-
-   <div align="center">
+<div align="center">
     
-   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-   </div>
-    >
+   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
+ </div>
     
  ## Visitors Count(since 22 Aug 2024)
 <div align="center"
