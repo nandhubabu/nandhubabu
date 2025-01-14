@@ -56,26 +56,4 @@ Here are some ideas to get you started:
              
              
    
-  ## 🧰 &nbsp;Github stats
-   <div align="center">
-    
-   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    </div>
-
-## 🔥 GitHub Streak
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)
-
-</div>
-
-
-##  📫 Top Languages Used
-    
-   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rudra0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
-    
- ## Visitors Count(since 22 Aug 2024)
-<div align="center"
-   [![](https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=0)](#Visitors)
-
-   </div>
+ 
