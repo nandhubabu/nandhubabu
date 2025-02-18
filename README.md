@@ -42,7 +42,11 @@ Check out more of my projects here!
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
 </p>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&row=1&no-bg=true&margin-w=15" alt="nandhubabu trophies" /> </div>
+🏆 Achievements
+
+<div align="center"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&row=1&no-bg=true&margin-w=15" alt="nandhubabu trophies" /> 
+</div>
 
 🌐 Connect with Me
 
@@ -72,4 +76,4 @@ Check out more of my projects here!
     </a> 
 </p> 
 </div>
-🏆 Achievements
+
