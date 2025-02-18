@@ -10,14 +10,6 @@
 🖥️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bootstrap,git,figma,firebase,linux,arduino,unity" alt="Languages and Tools" /> </div>
 
-🌟 Featured Projects
-
-    - Pass-2 Assembler Tool - (A C language-based tool for processing assembly code into machine code)
-    - SDG-Explorer - (Built during NASA Space Hackathon)
-    - Career Development Website
-
-Check out more of my projects here!
-
 <div align="center">
     
 📌 Language Stacks
