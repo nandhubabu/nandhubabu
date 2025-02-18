@@ -35,7 +35,7 @@ Check out more of my projects here!
     </p>
 📊 GitHub Stats
 <p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="40%" /> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false" alt="GitHub Streak" width="40%" /> 
 </p> 
 <p> 
