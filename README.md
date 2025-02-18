@@ -20,33 +20,56 @@ Check out more of my projects here!
 
 <div align="center">
     
-    📌 Language Stacks
+📌 Language Stacks
     <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" alt="Language Stacks" /> 
         </a> 
     </p>
         
-    🛠️ Software Stacks
+🛠️ Software Stacks
     <p> 
         <a href="https://skillicons.dev"> 
             <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,figma,postman" alt="Software Stacks" />
         </a>
     </p>
 📊 GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" /> </p>
-
+<p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" /> 
+</p> 
+<p> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
+</p>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&row=1&no-bg=true&margin-w=15" alt="nandhubabu trophies" /> </div>
 
 🌐 Connect with Me
 
-<div align="center"> <a href="https://linkedin.com/in/nandhubabu" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:nandhubabu@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://github.com/nandhubabu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
+<div align="center"> 
+    <a href="https://linkedin.com/in/nandhubabu" target="_blank"> 
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+    </a> 
+    <a href="mailto:nandhubabu@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> 
+    </a> 
+    <a href="https://github.com/nandhubabu" target="_blank"> 
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+</div>
 
 ✨ Fun Fact
 
-<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Fun Coding GIF" width="50%" style="border-radius: 10px;"/> <h4>Debugging is like being the detective in a crime movie where you are also the murderer 🕵️‍♂️!</h4> </div>
+<div align="center"> 
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Fun Coding GIF" width="50%" style="border-radius: 10px;"/> 
+    <h4>Debugging is like being the detective in a crime movie where you are also the murderer 🕵️‍♂️!</h4> 
+</div>
 
-🔥 Visitors (since February 18, 2025)
-<p> <a href="#Visitors"> <img src="https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=6" alt="Visitor Count" /> </a> </p> </div>
+🔥 Visitors (since February 18, 2024)
+<p> 
+    <a href="#Visitors"> 
+        <img src="https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=6" alt="Visitor Count" /> 
+    </a> 
+</p> 
+</div>
 🏆 Achievements
