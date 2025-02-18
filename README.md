@@ -69,11 +69,4 @@ Check out more of my projects here!
     <h4>Debugging is like being the detective in a crime movie where you are also the murderer 🕵️‍♂️!</h4> 
 </div>
 
-🔥 Visitors (since February 18, 2024)
-<p> 
-    <a href="#Visitors"> 
-        <img src="https://visitcount.itsvg.in/api?id=nandhubabu&icon=0&color=6" alt="Visitor Count" /> 
-    </a> 
-</p> 
-</div>
 
