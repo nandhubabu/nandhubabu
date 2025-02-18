@@ -36,10 +36,10 @@ Check out more of my projects here!
 📊 GitHub Stats
 <p> 
     <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false" alt="GitHub Streak" width="40%" /> 
 </p> 
 <p> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="40%" />
 </p>
 
 🏆 Achievements
