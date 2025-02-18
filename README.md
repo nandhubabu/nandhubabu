@@ -2,7 +2,7 @@
 
 🛠 About Me
 
-    🔭 Currently Working On: Career Development Website
+    -🔭 Currently Working On: Career Development Website
     -🌱 Currently Learning: React and Express.js to build full-stack applications.
     -💡 Interests: Building scalable web applications, exploring AI-driven solutions, and learning advanced web development frameworks.
     -🎯 Goal: To create innovative solutions that bridge the gap between AI and real-world applications.
@@ -13,9 +13,9 @@
 
 🌟 Featured Projects
 
-🔹 Pass-2 Assembler Tool - (A C language-based tool for processing assembly code into machine code)
-🔹 SDG-Explorer - (Built during NASA Space Hackathon)
-🔹 Career Development Website
+    - Pass-2 Assembler Tool - (A C language-based tool for processing assembly code into machine code)
+    - SDG-Explorer - (Built during NASA Space Hackathon)
+    - Career Development Website
 
 Check out more of my projects here!
 
