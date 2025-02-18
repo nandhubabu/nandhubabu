@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandhu Babu</h1> <h3 align="center">🚀 Software Developer | Computer Science Student | Aspiring Machine Learning Engineer 🚀</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandhubabu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="60%"/> </div>
+
 🛠 About Me
 🔭 Currently Working On: Career Development Website
 🌱 Currently Learning: React and Express.js to build full-stack applications.
