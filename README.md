@@ -6,7 +6,6 @@
     -🌱 Currently Learning: React and Express.js to build full-stack applications.
     -💡 Interests: Building scalable web applications, exploring AI-driven solutions, and learning advanced web development frameworks.
     -🎯 Goal: To create innovative solutions that bridge the gap between AI and real-world applications.
-    -📫 How to Reach Me: (Add your email or LinkedIn link here if you'd like)
     
 🖥️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bootstrap,git,figma,firebase,linux,arduino,unity" alt="Languages and Tools" /> </div>
@@ -20,7 +19,8 @@
 Check out more of my projects here!
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=radical" alt="nandhubabu's GitHub stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical" alt="nandhubabu's GitHub streak" width="48%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=radical" alt="nandhubabu's top languages" width="48%" /> </div>
+
+    <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=radical" alt="nandhubabu's GitHub stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical" alt="nandhubabu's GitHub streak" width="48%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=radical" alt="nandhubabu's top languages" width="48%" /> </div>
 
 🏆 Achievements
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&row=1&no-bg=true" alt="nandhubabu trophies" /> </div>
