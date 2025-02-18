@@ -1,10 +1,11 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=4000&pause=500&color=0011F4FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+NANDHU+BABU;" alt="Typing animation of Nandhu Babu" /> </div> <h3 align="center">🚀 Software Developer | Computer Science Student | Aspiring Machine Learning Engineer 🚀</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandhubabu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="60%"/> </div>
 🛠 About Me
-🔭 Currently Working On: Career Development Website
-🌱 Currently Learning: React and Express.js to build full-stack applications.
-💡 Interests: Building scalable web applications, exploring AI-driven solutions, and learning advanced web development frameworks.
-🎯 Goal: To create innovative solutions that bridge the gap between AI and real-world applications.
-📫 How to Reach Me: (Add your email or LinkedIn link here if you'd like)
+    -🔭 Currently Working On: Career Development Website
+    -🌱 Currently Learning: React and Express.js to build full-stack applications.
+    -💡 Interests: Building scalable web applications, exploring AI-driven solutions, and learning advanced web development frameworks.
+    -🎯 Goal: To create innovative solutions that bridge the gap between AI and real-world applications.
+    -📫 How to Reach Me: (Add your email or LinkedIn link here if you'd like)
+    
 🖥️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bootstrap,git,figma,firebase,linux,arduino,unity" alt="Languages and Tools" /> </div>
 🌟 Featured Projects
