@@ -19,10 +19,20 @@
 Check out more of my projects here!
 
 <div align="center">
-📌 Language Stacks
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" alt="Language Stacks" /> </a> </p>
-🛠️ Software Stacks
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,figma,postman" alt="Software Stacks" /> </a> </p>
+    
+    📌 Language Stacks
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" alt="Language Stacks" /> 
+        </a> 
+    </p>
+        
+    🛠️ Software Stacks
+    <p> 
+        <a href="https://skillicons.dev"> 
+            <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,figma,postman" alt="Software Stacks" />
+        </a>
+    </p>
 📊 GitHub Stats
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" /> </p>
 
