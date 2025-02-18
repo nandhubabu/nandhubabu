@@ -1,67 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nandhu Babu</h1>
+<h3 align="center">Passionate about creating scalable web applications, automating solutions, and exploring the intersection of AI and software development</h3>
 
-<!--
-**nandhubabu/nandhubabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhubabu&label=Profile%20views&color=0e75b6&style=flat" alt="nandhubabu" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhubabu" alt="nandhubabu" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi there 👋, my name is Nandhu Babu</h1>
-<h2 align="center">I am an aspiring web developer</h2>
+- 🔭 I’m currently working on [Carrier Development Website](https://github.com/nandhubabu/Live_Project)
 
+- 🌱 I’m currently learning **React and Express**
 
-- 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about embedded systems and Web Development.
-- 🔭 I’m currently working on honing my skills in embedded systems and web development  
-- 🌱 I’m currently learning embedded systems and website development 
-- 🤔 I’m looking for help with React/Computer Vision/Django/raspberry pi
-- 💞️ Open to collaborating on interesting projects related to embedded systems & web development. If you have any ideas or opportunities, feel free to reach out!
-- 📫 How to reach me: nandhubabuvizh@gmail.com 
-- 😄 Pronouns: He/Him
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<hr />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandhubabu&show_icons=true&locale=en&layout=compact" alt="nandhubabu" /></p>
 
-[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RED-EYE)
-<hr />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&locale=en" alt="nandhubabu" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<div align = "center" >
-   
-   ## Language Stack
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,bootstrap,js,mysql" />
-     </a>
-   </p>
-   
-   ## Software stack
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,vscode,arduino,windows,figma" />
-     </a>
-   </p>
-
-
-    ## 🧰 &nbsp;Github stats
-   ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=nandhubabu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical&hide_border=false)<br/>
-   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
-
-</div>
-   
-             
-             
-             
-   
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&" alt="nandhubabu" /></p>
