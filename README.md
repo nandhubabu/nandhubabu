@@ -20,16 +20,16 @@ Check out more of my projects here!
 
 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=radical" alt="nandhubabu's GitHub   stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical" alt="nandhubabu's GitHub streak"        width="48%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?                    username=nandhubabu&layout=compact&theme=radical" alt="nandhubabu's top languages" width="48%" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=radical" alt="nandhubabu's GitHub stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhubabu&theme=radical" alt="nandhubabu's GitHub streak" width="48%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=radical" alt="nandhubabu's top languages" width="48%" /> </div>
 
 🏆 Achievements
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&row=1&no-bg=true" alt="nandhubabu trophies" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=radical&row=1&no-bg=true&margin-w=15" alt="nandhubabu trophies" /> </div>
 
 🌐 Connect with Me
 
-<div align="center"> <a href="https://linkedin.com/in/nandhubabu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:nandhubabu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://github.com/nandhubabu" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> </div>
+<div align="center"> <a href="https://linkedin.com/in/nandhubabu" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:nandhubabu@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://github.com/nandhubabu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
 
 ✨ Fun Fact
 
-<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Fun Coding GIF" width="50%"/> <h4>Debugging is like being the detective in a crime movie where you are also the murderer 🕵️‍♂️!</h4> </div>
+<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Fun Coding GIF" width="50%" style="border-radius: 10px;"/> <h4>Debugging is like being the detective in a crime movie where you are also the murderer 🕵️‍♂️!</h4> </div>
