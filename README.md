@@ -60,5 +60,3 @@
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Fun Coding GIF" width="50%" style="border-radius: 10px;"/> 
     <h4>Debugging is like being the detective in a crime movie where you are also the murderer 🕵️‍♂️!</h4> 
 </div>
-
-
