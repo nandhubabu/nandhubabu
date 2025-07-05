@@ -15,7 +15,7 @@
 📌 Language Stacks
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" alt="Language Stacks" /> 
+            <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,panda,bootstrap,express,js,ts,jquery,mysql,npm" alt="Language Stacks" /> 
         </a> 
     </p>
         
