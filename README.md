@@ -2,9 +2,9 @@
 
 🛠 About Me
 
-    -🔭 Currently Working On: Career Development Website
-    -🌱 Currently Learning: React and Express.js to build full-stack applications.
-    -💡 Interests: Building scalable web applications, exploring AI-driven solutions, and learning advanced web development frameworks.
+    -🔭 Currently Working On: Deep learning 
+    -🌱 Currently Learning: Pytorch, sklearn 
+    -💡 Interests: Building scalable web applications, exploring AI-driven solutions, and Creating  and Implementing machine learning models to address real-time issues 
     -🎯 Goal: To create innovative solutions that bridge the gap between AI and real-world applications.
     
 🖥️ Tech Stack
