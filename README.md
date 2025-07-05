@@ -8,14 +8,14 @@
     -🎯 Goal: To create innovative solutions that bridge the gap between AI and real-world applications.
     
 🖥️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bootstrap,git,figma,firebase,linux,arduino,unity" alt="Languages and Tools" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bootstrap,git,figma,firebase,linux,arduino,unity,pytorch,sklearn" alt="Languages and Tools" /> </div>
 
 <div align="center">
     
 📌 Language Stacks
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,pytorch,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" alt="Language Stacks" /> 
+            <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" alt="Language Stacks" /> 
         </a> 
     </p>
         
