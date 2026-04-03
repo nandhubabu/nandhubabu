@@ -40,7 +40,7 @@
 
 ### 🌐 Core Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql" />
 
 ### 🧠 AI / ML
 
@@ -52,7 +52,7 @@
 
 ### 🛠 Tools & Software
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino,colab" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino,git,raspberrypi,vscode" />
 
 ### ⚙️ Programming Languages
 
