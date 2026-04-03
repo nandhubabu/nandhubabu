@@ -68,22 +68,7 @@
 <!-- Row 1 -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=tokyonight"
-     style="max-width: 400px; width: 100%; height: auto;"
-     onerror="this.style.display='none'" />
-
 <img src="https://streak-stats.demolab.com?user=nandhubabu&theme=tokyonight"
-     style="max-width: 400px; width: 100%; height: auto;"
-     onerror="this.style.display='none'" />
-
-</div>
-
-<br>
-
-<!-- Row 2 -->
-<div style="display: flex; justify-content: center;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=tokyonight"
      style="max-width: 400px; width: 100%; height: auto;"
      onerror="this.style.display='none'" />
 
