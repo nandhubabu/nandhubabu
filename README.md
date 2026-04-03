@@ -139,22 +139,6 @@
 
 ---
 
-## ⚡ Fun Fact
-## 🖥️ Hacking Terminal
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60%" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="60%" />
-
-</div>
-
-
----
-
 <!-- ================= FOOTER WAVE ================= -->
 
 <div align="center">
