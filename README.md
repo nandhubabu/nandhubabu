@@ -52,7 +52,7 @@
 
 ### 🛠 Tools & Software
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino,colab" />
 
 ### ⚙️ Programming Languages
 
