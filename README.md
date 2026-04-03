@@ -1,5 +1,13 @@
 <!-- ================= HEADER ================= -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0011F4,100:00C6FF&height=200&section=header&text=Nandhu%20Babu&fontSize=40&fontColor=ffffff" />
+
+</div>
+
+---
+
 <h1 align="center">Hi 👋, I'm Nandhu</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast</h3>
 
@@ -9,10 +17,10 @@
 
 ---
 
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- ================= ADVANCED TYPING ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%2F+ML+Learner;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Learner;MERN+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -28,9 +36,29 @@
 
 ## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,git,linux,vscode" />
-</p>
+<div align="center">
+
+### 🌐 Core Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+
+### 🧠 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux" />
+
+### 🛠 Tools & Software
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+### ⚙️ Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
+</div>
 
 ---
 
@@ -49,57 +77,57 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 
----
+<img src="https://streak-stats.demolab.com?user=nandhubabu&theme=tokyonight&hide_border=true" width="45%" />
 
-## 🔥 Streak Stats
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nandhubabu&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhubabu&theme=tokyo-night" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhubabu&theme=tokyo-night" />
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## ⚡ Activity
-
-<!-- Optional: GitHub Actions can auto-update this -->
-
-* 🔭 Working on Full Stack + AI projects
-* 🌱 Learning System Design
-* 🚀 Improving coding consistency
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
 
 ---
 
@@ -113,6 +141,12 @@
 
 ## ⚡ Fun Fact
 
-> I focus on building real projects, not just tutorials.
+> I build real-world projects, not just tutorials.
 
 ---
+
+<!-- ================= FOOTER WAVE ================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0011F4&height=120&section=footer"/>
+</div>
