@@ -140,8 +140,14 @@
 ---
 
 ## ⚡ Fun Fact
+## 🖥️ Terminal
 
-> I build real-world projects, not just tutorials.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=700&height=200&lines=%24+whoami;Nandhu+Babu;Full+Stack+Developer;AI+%2F+ML+Enthusiast;%24+skills;MERN+Stack+%7C+Python+%7C+AI;%24+status;Building+real+world+projects..." />
+
+</div>
+
 
 ---
 
