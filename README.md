@@ -61,19 +61,6 @@
 </div>
 
 ---
-
-## 📌 Featured Projects
-
-🔹 **AI News Analyzer**
-→ News aggregation + AI summaries + chatbot
-
-🔹 **Real-Time Chat App**
-→ WebSockets + JWT authentication
-
-🔹 **Driver Drowsiness Detection**
-→ OpenCV + alert system
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
