@@ -76,15 +76,11 @@
 </div>
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhubabu&theme=tokyo-night" />
 </div>
 
 ---
-
-## 🐍 Contribution Snake Animation
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -92,23 +88,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nandhubabu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/nandhu-babu">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:nandhubabuvizh@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
