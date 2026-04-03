@@ -74,18 +74,17 @@
 → OpenCV + alert system
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nandhubabu&show_icons=true&theme=tokyonight" width="45%" onerror="this.style.display='none'" />
 
-<img src="https://streak-stats.demolab.com?user=nandhubabu&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://streak-stats.demolab.com?user=nandhubabu&theme=tokyonight" width="45%" onerror="this.style.display='none'" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhubabu&layout=compact&theme=tokyonight" width="45%" onerror="this.style.display='none'" />
 
 </div>
 ---
